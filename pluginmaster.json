@@ -1,0 +1,16 @@
+{
+  "Plugins": [
+    {
+      "Name": "MyBossmod",
+      "InternalName": "MyBossmod",
+      "Description": "Custom fork of BossmodReborn by Finfingway.",
+      "Author": "Finfingway",
+      "AssemblyVersion": "0.1.0.1",
+      "DalamudApiLevel": 13,
+      "RepoUrl": "https://github.com/Finfingway/BossmodReborn",
+      "DownloadLinkInstall": "https://github.com/Finfingway/my-dalamud-repo/blob/main/MyBossmod.zip",
+      "DownloadLinkUpdate": "https://github.com/Finfingway/my-dalamud-repo/blob/main/MyBossmod.zip",
+      "Tags": [ "bossmod", "reborn", "xiv" ]
+    }
+  ]
+}
