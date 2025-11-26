@@ -1,16 +1,36 @@
 {
   "Plugins": [
-    {
-      "Name": "MyBossmod",
-      "InternalName": "MyBossmod",
-      "Description": "Custom fork of BossmodReborn by Finfingway.",
-      "Author": "Finfingway",
-      "AssemblyVersion": "0.1.0.1",
-      "DalamudApiLevel": 13,
-      "RepoUrl": "https://github.com/Finfingway/BossmodReborn",
-      "DownloadLinkInstall": "https://github.com/Finfingway/my-dalamud-repo/blob/main/MyBossmod.zip",
-      "DownloadLinkUpdate": "https://github.com/Finfingway/my-dalamud-repo/blob/main/MyBossmod.zip",
-      "Tags": [ "bossmod", "reborn", "xiv" ]
-    }
+  {
+    "Author": "The Combat Reborn Team / Finfingway",
+    "Name": "MyBossmod",
+    "InternalName": "MyBossmod",
+    "Description": "A bunch of utilities to simplify boss mechanics",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 13,
+    "TestingDalamudApiLevel": 0,
+    "Tags": [
+      "combat",
+      "boss",
+      "dodge",
+      "mechanics",
+      "pve",
+      "raids",
+      "trials"
+    ],
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "IsTestingExclusive": false,
+    "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/BMR_Icon.png",
+    "Punchline": "Don't fail at raid mechanics anymore",
+    "AcceptsFeedback": true,
+    "DownloadLinkInstall": "https://github.com/Finfingway/MyBossmod/releases/download/0.1.0.1/BossModReborn.zip",
+    "AssemblyVersion": "0.1.0.1.",
+    "DownloadLinkUpdate": "https://github.com/Finfingway/MyBossmod/releases/download/0.1.0.1/BossModReborn.zip",
+    "Changelog": "nothing",
+    "DownloadCount": 0
+  },
+
   ]
 }
